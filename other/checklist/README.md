@@ -1,4 +1,4 @@
-#Checklist
+# Checklist
 
 A fully featured checklist app. It allowed you to create/delete/check off items on the watch itself, and create/delete items from within the Pebble app on your phone.
 

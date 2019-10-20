@@ -1,4 +1,4 @@
-#pebble-archive
+# pebble-archive
 
 An archive of all my projects for the Pebble. This archive contains the last remaining images I could find of all my apps/watchfaces.
 
