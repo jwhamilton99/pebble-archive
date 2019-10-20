@@ -1,0 +1,72 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chezlord45@gmail.com",
+    "longName": "Timer",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/timer-menu-icon.png",
+                "menuIcon": true,
+                "name": "MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/timer_compelte.png",
+                "name": "TIMER_COMPLETE",
+                "type": "png"
+            },
+            {
+                "file": "images/editseconds copy.png",
+                "name": "EDIT_SECONDS",
+                "type": "png"
+            },
+            {
+                "file": "images/editminutes-2.png",
+                "name": "EDIT_MINUTES",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_reset.png",
+                "name": "RESET_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_play.png",
+                "name": "PLAY_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_pause.png",
+                "name": "PAUSE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_edit.png",
+                "name": "EDIT_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_complete-2.png",
+                "name": "COMPLETE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/action_bar_clear-2.png",
+                "name": "CLEAR_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Timer",
+    "uuid": "48fb9993-d823-460a-9bef-4353abaad56c",
+    "versionCode": 1,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

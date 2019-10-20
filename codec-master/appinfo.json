@@ -1,0 +1,50 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "chezlord45@gmail.com",
+    "longName": "Codec",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/pebble-codec.png",
+                "name": "BACKGROUND_IMAGE",
+                "type": "png"
+            },
+            {
+                "file": "fonts/MGS2 (4).ttf",
+                "name": "METAL_GEAR_9",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MGS2 (4).ttf",
+                "name": "METAL_GEAR_13",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MGS2 (4).ttf",
+                "name": "METAL_GEAR_16",
+                "type": "font"
+            },
+            {
+                "file": "fonts/MGS2 (4).ttf",
+                "name": "METAL_GEAR_17",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Codec",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "65553655-2067-4c56-b805-8f053c5be23e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
