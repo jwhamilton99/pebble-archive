@@ -1,5 +1,5 @@
 # Timer-2.0
-My Timer App for Pebble
+A simple timer. Nothing too crazy.
 
 (Taken from my old GitHub account)
 
